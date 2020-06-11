@@ -1,0 +1,31 @@
+{
+  "name": "boda-boda-banja",
+  "version": "1.0.0",
+  "description": "An app used to store sales executive details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisopiyo/boda-boda-banja.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisopiyo/boda-boda-banja/issues"
+  },
+  "homepage": "https://github.com/chrisopiyo/boda-boda-banja#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.4",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {}
+}
